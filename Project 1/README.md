@@ -38,7 +38,7 @@ A summary of the findings is:
 2. **Survey respondents predominantly identify as male (over 90%)**, and there are **no clear trends over time.**
 3. In the 2020 data **the age distribution of female users has a narrower spread, and peaks in the 21-30 age bracket. This could indicate women earlier in their careers.**
 
-A more thorough look at the results can be found in my blog post [here](https://medium.com/).
+A more thorough look at the results can be found in my blog post [here](https://guyhth.medium.com/global-shifts-and-gender-drifts-on-stack-overflow-5e2ffe71face).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
